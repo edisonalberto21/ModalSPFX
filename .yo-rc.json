@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem19",
+    "version": "1.12.1",
+    "libraryName": "modal",
+    "libraryId": "a0fe9192-6e4c-4727-8777-1bea25d1e27f",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
